@@ -81,8 +81,13 @@ body {
 }
 
 .redirect-section {
-    display: none;
+    display: block;
 }
+
+ .redirect-section-error {
+            display: none;
+        }
+
 
 .footer-content {
     margin: 20px;
